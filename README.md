@@ -1,3 +1,7 @@
+# Note
+
+I originally forked this so that I could run a Minecraft server in a Docker without using [this](https://github.com/itzg/docker-minecraft-server), since I found it to be rather bloated. I now use Pterodactyl Panel, which I've found to be the best option as far as Minecraft server administration goes; so since I don't have a use for it, I'll now archive this repository.
+
 # minecraft_server_manager
 Simple script for managing Minecraft server ie. starting, stopping, restarting without the need for screen
 
